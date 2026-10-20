@@ -1,0 +1,14 @@
+{
+  "name": "nuxt5-virtual-dir-alias-repro",
+  "type": "module",
+  "private": true,
+  "packageManager": "pnpm@10.34.1",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev"
+  },
+  "dependencies": {
+    "@nuxt/kit": "npm:@nuxt/kit-nightly@5.0.0-2610161133-5adfcb1",
+    "nuxt": "npm:nuxt-nightly@5.0.0-2610161133-5adfcb1"
+  }
+}
